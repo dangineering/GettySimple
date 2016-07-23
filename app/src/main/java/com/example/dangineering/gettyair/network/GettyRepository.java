@@ -22,7 +22,6 @@ public class GettyRepository {
 
     }
 
-
     // create retrofit object with intercepter
     public static final Retrofit retrofit = new Retrofit.Builder()
             .baseUrl("https://api.gettyimages.com/v3/")

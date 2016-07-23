@@ -7,7 +7,6 @@ import android.view.ViewGroup;
 
 import com.example.dangineering.gettyair.R;
 import com.example.dangineering.gettyair.network.respmodel.Image;
-import com.example.dangineering.gettyair.network.respmodel.Resp;
 
 import java.util.ArrayList;
 import java.util.List;
