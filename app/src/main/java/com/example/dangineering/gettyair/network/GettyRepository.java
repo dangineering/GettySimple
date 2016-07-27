@@ -33,7 +33,7 @@ public class GettyRepository {
                             Request original = chain.request();
 
                             Request.Builder requestBuilder = original.newBuilder()
-                                    .header("Api-Key", "nbe4gxpc8jfqr6xvr6j4dh7b");
+                                    .header("Api-Key", "");
 
                             Request request = requestBuilder.build();
                             return chain.proceed(request);
